@@ -1,0 +1,13 @@
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\bin\Debug\netcoreapp3.1\HerancaExec.exe
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\bin\Debug\netcoreapp3.1\HerancaExec.deps.json
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\bin\Debug\netcoreapp3.1\HerancaExec.runtimeconfig.json
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\bin\Debug\netcoreapp3.1\HerancaExec.runtimeconfig.dev.json
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\bin\Debug\netcoreapp3.1\HerancaExec.dll
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\bin\Debug\netcoreapp3.1\HerancaExec.pdb
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\obj\Debug\netcoreapp3.1\HerancaExec.csproj.AssemblyReference.cache
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\obj\Debug\netcoreapp3.1\HerancaExec.AssemblyInfoInputs.cache
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\obj\Debug\netcoreapp3.1\HerancaExec.AssemblyInfo.cs
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\obj\Debug\netcoreapp3.1\HerancaExec.csproj.CoreCompileInputs.cache
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\obj\Debug\netcoreapp3.1\HerancaExec.dll
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\obj\Debug\netcoreapp3.1\HerancaExec.pdb
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\HerancaExec\HerancaExec\obj\Debug\netcoreapp3.1\HerancaExec.genruntimeconfig.cache

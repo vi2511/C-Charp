@@ -1,0 +1,13 @@
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\bin\Debug\netcoreapp3.1\ClasseAbstrato.exe
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\bin\Debug\netcoreapp3.1\ClasseAbstrato.deps.json
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\bin\Debug\netcoreapp3.1\ClasseAbstrato.runtimeconfig.json
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\bin\Debug\netcoreapp3.1\ClasseAbstrato.runtimeconfig.dev.json
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\bin\Debug\netcoreapp3.1\ClasseAbstrato.dll
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\bin\Debug\netcoreapp3.1\ClasseAbstrato.pdb
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\obj\Debug\netcoreapp3.1\ClasseAbstrato.csproj.AssemblyReference.cache
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\obj\Debug\netcoreapp3.1\ClasseAbstrato.AssemblyInfoInputs.cache
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\obj\Debug\netcoreapp3.1\ClasseAbstrato.AssemblyInfo.cs
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\obj\Debug\netcoreapp3.1\ClasseAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\obj\Debug\netcoreapp3.1\ClasseAbstrato.dll
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\obj\Debug\netcoreapp3.1\ClasseAbstrato.pdb
+C:\Users\vi_11\OneDrive\Área de Trabalho\C#\ClasseAbstrato\ClasseAbstrato\obj\Debug\netcoreapp3.1\ClasseAbstrato.genruntimeconfig.cache
